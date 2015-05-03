@@ -1,0 +1,8 @@
+env
+jony.*
+cu.txt
+test.py
+*.pyc
+a.*
+jony/
+.DS_Store
